@@ -1,22 +1,5 @@
 title: Portfolio Optimization Bot
 theme: jekyll-theme-cayman
 description: Maximize returns with our portfolio optimization bot
-baseurl: "/page-portfolio-optimizer"
+baseurl: "/portfolio-optimizer-page"
 url: "https://edintino.github.io"
-
-# Navigation
-navbar:
-  - title: Home
-    url: /
-  - title: How It Works
-    url: /how-it-works/
-  - title: Examples
-    url: /examples/
-  - title: Conclusion
-    url: /conclusion/
-
-# Footer
-footer:
-  links:
-    - title: Contact Me
-      url: mailto:dintinoeugenio@gmail.com
