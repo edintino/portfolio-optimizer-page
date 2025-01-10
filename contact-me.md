@@ -7,7 +7,7 @@ permalink: /contact-me/
 
 ## Contact Me
 
-Have questions, feedback, or need assistance? We're here to help!
+Have questions, feedback, or need assistance? I am here to help!
 
 - **Email**: [dintinoeugenio@gmail.com](mailto:dintinoeugenio@gmail.com)
 
